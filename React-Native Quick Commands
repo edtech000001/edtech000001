@@ -6,3 +6,4 @@ ctrl -c                         # stops website
 npx create-react-app appname    # Create New App
 cd appname                      # Target App
 code .                          # Open Directory
+npx clear-npx-cache             #Fix behind latest release error run
