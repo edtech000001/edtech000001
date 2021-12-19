@@ -1,0 +1,8 @@
+#Commands
+-------------
+npm start                       #open website
+npm update                      #fix issues
+ctrl -c                         # stops website
+npx create-react-app appname    # Create New App
+cd appname                      # Target App
+code .                          # Open Directory
